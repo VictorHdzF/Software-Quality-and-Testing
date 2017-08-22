@@ -1,0 +1,8 @@
+Iniciando Test
+<------------------------------>
+Test Case: TestCaseUno
+Test Name: NombreTest
+Elapsed Time Case: 1 ms
+Tests Correctos: 1
+Tests Fallidos: 0
+Tiempo de ejecucion: 2 ms
